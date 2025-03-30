@@ -26,7 +26,7 @@ Follow these steps to set up and run the project on your local machine:
 1. **Download the Project**:
    Clone the project repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/kareemtarekK/Pizza-Menu.git>
 
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
